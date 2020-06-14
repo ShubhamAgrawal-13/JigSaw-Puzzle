@@ -6,7 +6,7 @@ In this problem, you'll implement a solver that solves jigsaw puzzles using line
 
 The current problem requires you to only solve Type I problems (i.e. problems where the orientation of the pieces is known).
 
-You may refer to this paper Solving Jigsaw Puzzles with Linear Programming(!jigsaw.pdf) for implementation details.
+You may refer to this paper[Solving Jigsaw Puzzles with Linear Programming](jigsaw.pdf) for implementation details.
 
 
 ![flow image](flow.png)
